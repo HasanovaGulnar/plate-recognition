@@ -1,0 +1,74 @@
+[
+  {
+    "image": "test_055.jpg",
+    "source_split": "train",
+    "visible_plates_visual_review": 2,
+    "detection_count": 1,
+    "plates": [
+      {
+        "box": [
+          122.89134979248047,
+          151.49322509765625,
+          212.82301330566406,
+          172.03012084960938
+        ],
+        "detector_confidence": 0.9246224761009216,
+        "raw_text": "NO-450AM\n",
+        "text": "NO450AM",
+        "status": "ok"
+      }
+    ],
+    "crop_files": [
+      "test_055_plate_1.png"
+    ],
+    "note": "Supplementary visual check. Detection count alone does not verify correct matching."
+  },
+  {
+    "image": "test_056.jpg",
+    "source_split": "train",
+    "visible_plates_visual_review": 2,
+    "detection_count": 1,
+    "plates": [
+      {
+        "box": [
+          165.619384765625,
+          165.66160583496094,
+          236.41275024414062,
+          180.8574981689453
+        ],
+        "detector_confidence": 0.8183282613754272,
+        "raw_text": "s°RK-300AGE\n",
+        "text": "SRK300AGE",
+        "status": "ok"
+      }
+    ],
+    "crop_files": [
+      "test_056_plate_1.png"
+    ],
+    "note": "Supplementary visual check. Detection count alone does not verify correct matching."
+  },
+  {
+    "image": "test_082.jpg",
+    "source_split": "train",
+    "visible_plates_visual_review": 2,
+    "detection_count": 1,
+    "plates": [
+      {
+        "box": [
+          184.54615783691406,
+          246.37924194335938,
+          298.4276428222656,
+          272.0689392089844
+        ],
+        "detector_confidence": 0.9526224732398987,
+        "raw_text": "",
+        "text": "",
+        "status": "ocr_empty"
+      }
+    ],
+    "crop_files": [
+      "test_082_plate_1.png"
+    ],
+    "note": "Supplementary visual check. Detection count alone does not verify correct matching."
+  }
+]

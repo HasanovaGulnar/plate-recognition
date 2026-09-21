@@ -1,0 +1,107 @@
+[
+  {
+    "crop": "eu2_plate_1.png",
+    "raw_text": "GsWAGENE\n",
+    "engine": "tesseract",
+    "config": "--psm 7",
+    "ocr_image_scale": 2
+  },
+  {
+    "crop": "eu9_plate_1.png",
+    "raw_text": " Wi053044\\f\n",
+    "engine": "tesseract",
+    "config": "--psm 7",
+    "ocr_image_scale": 2
+  },
+  {
+    "crop": "test_005_plate_1.png",
+    "raw_text": "",
+    "engine": "tesseract",
+    "config": "--psm 7",
+    "ocr_image_scale": 2
+  },
+  {
+    "crop": "test_007_plate_1.png",
+    "raw_text": "isRK*828AG\n",
+    "engine": "tesseract",
+    "config": "--psm 7",
+    "ocr_image_scale": 2
+  },
+  {
+    "crop": "test_014_plate_1.png",
+    "raw_text": "",
+    "engine": "tesseract",
+    "config": "--psm 7",
+    "ocr_image_scale": 2
+  },
+  {
+    "crop": "test_024_plate_1.png",
+    "raw_text": "°RK-O26AJ\n",
+    "engine": "tesseract",
+    "config": "--psm 7",
+    "ocr_image_scale": 2
+  },
+  {
+    "crop": "test_025_plate_1.png",
+    "raw_text": "",
+    "engine": "tesseract",
+    "config": "--psm 7",
+    "ocr_image_scale": 2
+  },
+  {
+    "crop": "test_053_plate_1.png",
+    "raw_text": "PRK-715AA\n",
+    "engine": "tesseract",
+    "config": "--psm 7",
+    "ocr_image_scale": 2
+  },
+  {
+    "crop": "test_066_plate_1.png",
+    "raw_text": "| BSE; 55-79 |\n",
+    "engine": "tesseract",
+    "config": "--psm 7",
+    "ocr_image_scale": 2
+  },
+  {
+    "crop": "test_068_plate_1.png",
+    "raw_text": "1B1° 9839\n",
+    "engine": "tesseract",
+    "config": "--psm 7",
+    "ocr_image_scale": 2
+  },
+  {
+    "crop": "test_085_plate_1.png",
+    "raw_text": "®RK-959AD\n",
+    "engine": "tesseract",
+    "config": "--psm 7",
+    "ocr_image_scale": 2
+  },
+  {
+    "crop": "test_086_plate_1.png",
+    "raw_text": "SRK°376AF\n",
+    "engine": "tesseract",
+    "config": "--psm 7",
+    "ocr_image_scale": 2
+  },
+  {
+    "crop": "test_088_plate_1.png",
+    "raw_text": "°LM-169AM\n",
+    "engine": "tesseract",
+    "config": "--psm 7",
+    "ocr_image_scale": 2
+  },
+  {
+    "crop": "test_093_plate_1.png",
+    "raw_text": "°RK*301AH\n",
+    "engine": "tesseract",
+    "config": "--psm 7",
+    "ocr_image_scale": 2
+  },
+  {
+    "crop": "test_094_plate_1.png",
+    "raw_text": "BRKO69AV\n",
+    "engine": "tesseract",
+    "config": "--psm 7",
+    "ocr_image_scale": 2
+  }
+]

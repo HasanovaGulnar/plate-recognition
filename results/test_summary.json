@@ -1,0 +1,12 @@
+{
+  "test_images": 20,
+  "iou_threshold": 0.5,
+  "mean_iou": 0.8876954530976933,
+  "true_positive": 20,
+  "false_positive": 2,
+  "false_negative": 0,
+  "detection_precision": 0.9090909090909091,
+  "detection_recall": 1.0,
+  "end_to_end_exact_match": 0.15,
+  "end_to_end_cer": 0.46099290780141844
+}

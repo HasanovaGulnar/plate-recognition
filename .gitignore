@@ -1,0 +1,21 @@
+# Python environment and cache
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local datasets; keep the split manifest
+data/*
+!data/splits.json
+
+# Model weights and training outputs
+models/
+runs/
+*.pt
+*.onnx
+
+# Downloaded archives
+*.zip
+
+# Editor settings
+.vscode/

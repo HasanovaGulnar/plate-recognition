@@ -1,0 +1,496 @@
+[
+  {
+    "crop": "eu2_plate_1.png",
+    "raw_text": "GWAGEN",
+    "segments": [
+      {
+        "text": "GWAGEN",
+        "confidence": 0.6810675453347895,
+        "box": [
+          [
+            34.0,
+            6.0
+          ],
+          [
+            451.0,
+            6.0
+          ],
+          [
+            451.0,
+            87.0
+          ],
+          [
+            34.0,
+            87.0
+          ]
+        ]
+      }
+    ],
+    "ocr_image_scale": 3.096774193548387,
+    "preprocessing": "height_96_grayscale_clahe"
+  },
+  {
+    "crop": "eu9_plate_1.png",
+    "raw_text": "W'0530141",
+    "segments": [
+      {
+        "text": "W'0530141",
+        "confidence": 0.08110610512066725,
+        "box": [
+          [
+            22.0,
+            0.0
+          ],
+          [
+            318.0,
+            0.0
+          ],
+          [
+            318.0,
+            96.0
+          ],
+          [
+            22.0,
+            96.0
+          ]
+        ]
+      }
+    ],
+    "ocr_image_scale": 2.4,
+    "preprocessing": "height_96_grayscale_clahe"
+  },
+  {
+    "crop": "test_005_plate_1.png",
+    "raw_text": "IS.260AK",
+    "segments": [
+      {
+        "text": "IS.260AK",
+        "confidence": 0.3327677130365532,
+        "box": [
+          [
+            56.0,
+            4.0
+          ],
+          [
+            391.0,
+            4.0
+          ],
+          [
+            391.0,
+            92.0
+          ],
+          [
+            56.0,
+            92.0
+          ]
+        ]
+      }
+    ],
+    "ocr_image_scale": 2.823529411764706,
+    "preprocessing": "height_96_grayscale_clahe"
+  },
+  {
+    "crop": "test_007_plate_1.png",
+    "raw_text": "Sk RKe828A0",
+    "segments": [
+      {
+        "text": "Sk",
+        "confidence": 0.3524643124101855,
+        "box": [
+          [
+            24.0,
+            54.0
+          ],
+          [
+            62.0,
+            54.0
+          ],
+          [
+            62.0,
+            86.0
+          ],
+          [
+            24.0,
+            86.0
+          ]
+        ]
+      },
+      {
+        "text": "RKe828A0",
+        "confidence": 0.5903601196993093,
+        "box": [
+          [
+            53.0,
+            7.0
+          ],
+          [
+            397.0,
+            7.0
+          ],
+          [
+            397.0,
+            91.0
+          ],
+          [
+            53.0,
+            91.0
+          ]
+        ]
+      }
+    ],
+    "ocr_image_scale": 2.5945945945945947,
+    "preprocessing": "height_96_grayscale_clahe"
+  },
+  {
+    "crop": "test_014_plate_1.png",
+    "raw_text": "ERKe5Z64H",
+    "segments": [
+      {
+        "text": "ERKe5Z64H",
+        "confidence": 0.2087507205146135,
+        "box": [
+          [
+            9.0,
+            5.0
+          ],
+          [
+            385.0,
+            5.0
+          ],
+          [
+            385.0,
+            91.0
+          ],
+          [
+            9.0,
+            91.0
+          ]
+        ]
+      }
+    ],
+    "ocr_image_scale": 3.4285714285714284,
+    "preprocessing": "height_96_grayscale_clahe"
+  },
+  {
+    "crop": "test_024_plate_1.png",
+    "raw_text": "RK-0264J",
+    "segments": [
+      {
+        "text": "RK-0264J",
+        "confidence": 0.9356257343075128,
+        "box": [
+          [
+            52.0,
+            1.0
+          ],
+          [
+            417.0,
+            1.0
+          ],
+          [
+            417.0,
+            90.0
+          ],
+          [
+            52.0,
+            90.0
+          ]
+        ]
+      }
+    ],
+    "ocr_image_scale": 3.6923076923076925,
+    "preprocessing": "height_96_grayscale_clahe"
+  },
+  {
+    "crop": "test_025_plate_1.png",
+    "raw_text": "RK889640",
+    "segments": [
+      {
+        "text": "RK889640",
+        "confidence": 0.28218607315551403,
+        "box": [
+          [
+            51.0,
+            3.0
+          ],
+          [
+            397.0,
+            3.0
+          ],
+          [
+            397.0,
+            91.0
+          ],
+          [
+            51.0,
+            91.0
+          ]
+        ]
+      }
+    ],
+    "ocr_image_scale": 3.0,
+    "preprocessing": "height_96_grayscale_clahe"
+  },
+  {
+    "crop": "test_053_plate_1.png",
+    "raw_text": "EKZ15AA",
+    "segments": [
+      {
+        "text": "EKZ15AA",
+        "confidence": 0.6474483559853975,
+        "box": [
+          [
+            8.0,
+            0.0
+          ],
+          [
+            385.0,
+            0.0
+          ],
+          [
+            385.0,
+            96.0
+          ],
+          [
+            8.0,
+            96.0
+          ]
+        ]
+      }
+    ],
+    "ocr_image_scale": 4.0,
+    "preprocessing": "height_96_grayscale_clahe"
+  },
+  {
+    "crop": "test_066_plate_1.png",
+    "raw_text": "BSE 5579",
+    "segments": [
+      {
+        "text": "BSE",
+        "confidence": 0.6313563585281372,
+        "box": [
+          [
+            24.0,
+            10.0
+          ],
+          [
+            148.0,
+            10.0
+          ],
+          [
+            148.0,
+            86.0
+          ],
+          [
+            24.0,
+            86.0
+          ]
+        ]
+      },
+      {
+        "text": "5579",
+        "confidence": 0.9261096119880676,
+        "box": [
+          [
+            171.0,
+            5.0
+          ],
+          [
+            358.0,
+            5.0
+          ],
+          [
+            358.0,
+            90.0
+          ],
+          [
+            171.0,
+            90.0
+          ]
+        ]
+      }
+    ],
+    "ocr_image_scale": 3.2,
+    "preprocessing": "height_96_grayscale_clahe"
+  },
+  {
+    "crop": "test_068_plate_1.png",
+    "raw_text": "1B189839",
+    "segments": [
+      {
+        "text": "1B189839",
+        "confidence": 0.26951103734109516,
+        "box": [
+          [
+            62.0,
+            8.0
+          ],
+          [
+            385.0,
+            8.0
+          ],
+          [
+            385.0,
+            89.0
+          ],
+          [
+            62.0,
+            89.0
+          ]
+        ]
+      }
+    ],
+    "ocr_image_scale": 3.4285714285714284,
+    "preprocessing": "height_96_grayscale_clahe"
+  },
+  {
+    "crop": "test_085_plate_1.png",
+    "raw_text": "RK-9591",
+    "segments": [
+      {
+        "text": "RK-9591",
+        "confidence": 0.6068262839482664,
+        "box": [
+          [
+            38.0,
+            7.0
+          ],
+          [
+            355.0,
+            7.0
+          ],
+          [
+            355.0,
+            93.0
+          ],
+          [
+            38.0,
+            93.0
+          ]
+        ]
+      }
+    ],
+    "ocr_image_scale": 2.909090909090909,
+    "preprocessing": "height_96_grayscale_clahe"
+  },
+  {
+    "crop": "test_086_plate_1.png",
+    "raw_text": "ERK?376AF",
+    "segments": [
+      {
+        "text": "ERK?376AF",
+        "confidence": 0.42100161877567555,
+        "box": [
+          [
+            12.0,
+            8.0
+          ],
+          [
+            370.0,
+            8.0
+          ],
+          [
+            370.0,
+            86.0
+          ],
+          [
+            12.0,
+            86.0
+          ]
+        ]
+      }
+    ],
+    "ocr_image_scale": 3.096774193548387,
+    "preprocessing": "height_96_grayscale_clahe"
+  },
+  {
+    "crop": "test_088_plate_1.png",
+    "raw_text": "EM-169A",
+    "segments": [
+      {
+        "text": "EM-169A",
+        "confidence": 0.39010216212068805,
+        "box": [
+          [
+            10.0,
+            2.0
+          ],
+          [
+            397.0,
+            2.0
+          ],
+          [
+            397.0,
+            94.0
+          ],
+          [
+            10.0,
+            94.0
+          ]
+        ]
+      }
+    ],
+    "ocr_image_scale": 3.0,
+    "preprocessing": "height_96_grayscale_clahe"
+  },
+  {
+    "crop": "test_093_plate_1.png",
+    "raw_text": "RKE301AH",
+    "segments": [
+      {
+        "text": "RKE301AH",
+        "confidence": 0.5190383900774086,
+        "box": [
+          [
+            53.0,
+            3.0
+          ],
+          [
+            397.0,
+            3.0
+          ],
+          [
+            397.0,
+            89.0
+          ],
+          [
+            53.0,
+            89.0
+          ]
+        ]
+      }
+    ],
+    "ocr_image_scale": 3.096774193548387,
+    "preprocessing": "height_96_grayscale_clahe"
+  },
+  {
+    "crop": "test_094_plate_1.png",
+    "raw_text": "RKeO69AV",
+    "segments": [
+      {
+        "text": "RKeO69AV",
+        "confidence": 0.23274290602748104,
+        "box": [
+          [
+            49.0,
+            0.0
+          ],
+          [
+            411.0,
+            0.0
+          ],
+          [
+            411.0,
+            92.0
+          ],
+          [
+            49.0,
+            92.0
+          ]
+        ]
+      }
+    ],
+    "ocr_image_scale": 3.0,
+    "preprocessing": "height_96_grayscale_clahe"
+  }
+]

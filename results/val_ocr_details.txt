@@ -1,0 +1,20 @@
+﻿eu2.jpg: gozlenen=GWAGEN | OCR=GSWAGENE | SEHV
+eu9.jpg: gozlenen=W053011 | OCR=WI053044F | SEHV
+test_005.jpg: gozlenen=TS260AK | OCR=[BOS] | SEHV
+test_007.jpg: gozlenen=RK828AG | OCR=ISRK828AG | SEHV
+test_014.jpg: gozlenen=RK576AH | OCR=[BOS] | SEHV
+test_024.jpg: gozlenen=RKO26AJ | OCR=RKO26AJ | DUZGUN
+test_025.jpg: gozlenen=RK896AO | OCR=[BOS] | SEHV
+test_053.jpg: gozlenen=RK715AA | OCR=PRK715AA | SEHV
+test_066.jpg: gozlenen=BSE5579 | OCR=BSE5579 | DUZGUN
+test_068.jpg: gozlenen=1B19839 | OCR=1B19839 | DUZGUN
+test_085.jpg: gozlenen=RK959AD | OCR=RK959AD | DUZGUN
+test_086.jpg: gozlenen=RK376AF | OCR=SRK376AF | SEHV
+test_088.jpg: gozlenen=LM169AM | OCR=LM169AM | DUZGUN
+test_093.jpg: gozlenen=RK301AH | OCR=RK301AH | DUZGUN
+test_094.jpg: gozlenen=RK069AV | OCR=BRKO69AV | SEHV
+
+Tam duzgun: 6/15
+Exact-match: 40.0%
+CER: 31.7%
+Crop olmayan sekil: 0

@@ -1,0 +1,122 @@
+[
+  {
+    "crop": "eu2_plate_1.png",
+    "raw_text": "1 G3WAGEN BE\n",
+    "engine": "tesseract",
+    "config": "--psm 13",
+    "ocr_image_scale": 2,
+    "cleaned_text": "1G3WAGENBE"
+  },
+  {
+    "crop": "eu9_plate_1.png",
+    "raw_text": " Wi053044\\f\n",
+    "engine": "tesseract",
+    "config": "--psm 13",
+    "ocr_image_scale": 2,
+    "cleaned_text": "WI053044F"
+  },
+  {
+    "crop": "test_005_plate_1.png",
+    "raw_text": "i TSs260AKE\n",
+    "engine": "tesseract",
+    "config": "--psm 13",
+    "ocr_image_scale": 2,
+    "cleaned_text": "ITSS260AKE"
+  },
+  {
+    "crop": "test_007_plate_1.png",
+    "raw_text": "1°RK2828AGE\n",
+    "engine": "tesseract",
+    "config": "--psm 13",
+    "ocr_image_scale": 2,
+    "cleaned_text": "1RK2828AGE"
+  },
+  {
+    "crop": "test_014_plate_1.png",
+    "raw_text": "FoRK2576AHE\n",
+    "engine": "tesseract",
+    "config": "--psm 13",
+    "ocr_image_scale": 2,
+    "cleaned_text": "FORK2576AHE"
+  },
+  {
+    "crop": "test_024_plate_1.png",
+    "raw_text": "PPRK-O26AJR\n",
+    "engine": "tesseract",
+    "config": "--psm 13",
+    "ocr_image_scale": 2,
+    "cleaned_text": "PPRKO26AJR"
+  },
+  {
+    "crop": "test_025_plate_1.png",
+    "raw_text": "RK:896A0]\n",
+    "engine": "tesseract",
+    "config": "--psm 13",
+    "ocr_image_scale": 2,
+    "cleaned_text": "RK896A0"
+  },
+  {
+    "crop": "test_053_plate_1.png",
+    "raw_text": "oRK-715AAR\n",
+    "engine": "tesseract",
+    "config": "--psm 13",
+    "ocr_image_scale": 2,
+    "cleaned_text": "ORK715AAR"
+  },
+  {
+    "crop": "test_066_plate_1.png",
+    "raw_text": "BSE.55-79 |\n",
+    "engine": "tesseract",
+    "config": "--psm 13",
+    "ocr_image_scale": 2,
+    "cleaned_text": "BSE5579"
+  },
+  {
+    "crop": "test_068_plate_1.png",
+    "raw_text": "| 1B1:9839 |\n",
+    "engine": "tesseract",
+    "config": "--psm 13",
+    "ocr_image_scale": 2,
+    "cleaned_text": "1B19839"
+  },
+  {
+    "crop": "test_085_plate_1.png",
+    "raw_text": "[RK-959AD]\n",
+    "engine": "tesseract",
+    "config": "--psm 13",
+    "ocr_image_scale": 2,
+    "cleaned_text": "RK959AD"
+  },
+  {
+    "crop": "test_086_plate_1.png",
+    "raw_text": "ioRK?376AFB\n",
+    "engine": "tesseract",
+    "config": "--psm 13",
+    "ocr_image_scale": 2,
+    "cleaned_text": "IORK376AFB"
+  },
+  {
+    "crop": "test_088_plate_1.png",
+    "raw_text": "i°LM- 169AME\n",
+    "engine": "tesseract",
+    "config": "--psm 13",
+    "ocr_image_scale": 2,
+    "cleaned_text": "ILM169AME"
+  },
+  {
+    "crop": "test_093_plate_1.png",
+    "raw_text": "°RK2301 AHI\n",
+    "engine": "tesseract",
+    "config": "--psm 13",
+    "ocr_image_scale": 2,
+    "cleaned_text": "RK2301AHI"
+  },
+  {
+    "crop": "test_094_plate_1.png",
+    "raw_text": "BRKeC6SAVE\n",
+    "engine": "tesseract",
+    "config": "--psm 13",
+    "ocr_image_scale": 2,
+    "cleaned_text": "BRKEC6SAVE"
+  }
+]
