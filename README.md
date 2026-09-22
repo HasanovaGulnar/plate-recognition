@@ -45,14 +45,15 @@ PSM 7 was selected for its higher exact-match accuracy.
 
 Install Python dependencies:
 
-    pip install -r requirements.txt
+python -m pip install torch==2.13.0 torchvision==0.28.0 --index-url https://download.pytorch.org/whl/cu126
+python -m pip install -r requirements.txt
 
 Install Tesseract separately with English language data.
 The configured Windows path is:
 
     C:\Program Files\Tesseract-OCR\tesseract.exe
 
-Place the trained model at:
+The trained model is included at:
 
     runs/detect/plate_v1/weights/best.pt
 
